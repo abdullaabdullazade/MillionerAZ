@@ -20,8 +20,7 @@
         "foregroundImage": "./assets/images/splash2.png",
         "backgroundColor": "#007BFF"
       },
-      "versionCode": 1,
-      "package": "com.fr13nd_7.MillionerAZ"
+      "versionCode": 1
     },
     "web": {
       "bundler": "metro",
@@ -42,14 +41,6 @@
     ],
     "experiments": {
       "typedRoutes": true
-    },
-    "extra": {
-      "router": {
-        "origin": false
-      },
-      "eas": {
-        "projectId": "3ec9bbb5-e309-4d7c-982a-0e95d3466906"
-      }
     }
   }
 }
