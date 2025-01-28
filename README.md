@@ -60,9 +60,6 @@ Bu layihə **React Native**-də yazılmışdır. Onu işə salmaq üçün aşağ
   <img src="./screenshots/7.png" alt="Screenshot 7" width="200" style="margin: 10px;">
   <img src="./screenshots/8.png" alt="Screenshot 8" width="200" style="margin: 10px;">
   <img src="./screenshots/9.png" alt="Screenshot 9" width="200" style="margin: 10px;">
-  <img src="./screenshots/10.png" alt="Screenshot 10" width="200" style="margin: 10px;">
-  <img src="./screenshots/11.png" alt="Screenshot 11" width="200" style="margin: 10px;">
-  <img src="./screenshots/12.png" alt="Screenshot 12" width="200" style="margin: 10px;">
 </p>
 
 ### Qeyd:
