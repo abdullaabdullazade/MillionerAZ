@@ -1,50 +1,78 @@
-# Welcome to your Expo app 👋
+# Milyonçu 📱🎮
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Bu layihə **Milyonçu** oyunudur, 6 ay əvvəl yaratmışdım. 🕰️
 
-## Get started
+## Haqqında ✨
 
-1. Install dependencies
+Milyonçu oyunu istifadəçilərə intellektual suallar vasitəsilə əyləncə təqdim edir. 📚🎉
+Lakin artıq bu oyun Play Store-dan qaldırıldı(Developer accountuna görə) və indi **open source** olaraq sizə təqdim edirəm. 🌍🔓
+
+## Necə işə salmalı? 🚀
+
+Bu layihə **React Native**-də yazılmışdır. Onu işə salmaq üçün aşağıdakı addımları izləyin:
+
+### Tələblər 📋
+
+- **Node.js** (Son versiyanı yükləyin) 🌐
+- **Expo CLI** (Global olaraq quraşdırılmış olmalıdır) 📱
+- **Android Studio** (Emulator üçün, əgər fiziki cihaz istifadə etmirsinizsə) 🤖
+- **iOS Simulator** (macOS istifadə edirsinizsə) 🍎
+
+### Addımlar ⚙️
+
+1. **Repository-ni klonlayın:**
+
+   ```bash
+   git clone https://github.com/abdullaabdullazade/MillionerAZ.git
+   ```
+
+2. **Layihə qovluğuna keçin:**
+
+   ```bash
+   cd MillionerAZ
+   ```
+
+3. **Asılılıqları quraşdırın:**
 
    ```bash
    npm install
    ```
 
-2. Start the app
+4. **Expo server-i işə salın:**
 
    ```bash
-    npx expo start
+   npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+5. **Mobil cihazda və ya emulatorda çalışdırın:**
+   - **Expo Go** tətbiqini mobil cihazınıza yükləyin və QR kodunu skan edin. 📲
+   - **Android/iOS Emulator** istifadə edirsinizsə, Expo server üzərindən cihaz seçimi edin. 🤖🍎
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### Screenshots
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+<p align="center">
+  <img src="./screenshots/1.png" alt="Screenshot 1" width="200" style="margin: 10px;">
+  <img src="./screenshots/2.png" alt="Screenshot 2" width="200" style="margin: 10px;">
+  <img src="./screenshots/3.png" alt="Screenshot 3" width="200" style="margin: 10px;">
+  <img src="./screenshots/4.png" alt="Screenshot 4" width="200" style="margin: 10px;">
+  <img src="./screenshots/5.png" alt="Screenshot 5" width="200" style="margin: 10px;">
+  <img src="./screenshots/6.png" alt="Screenshot 6" width="200" style="margin: 10px;">
+  <img src="./screenshots/7.png" alt="Screenshot 7" width="200" style="margin: 10px;">
+  <img src="./screenshots/8.png" alt="Screenshot 8" width="200" style="margin: 10px;">
+  <img src="./screenshots/9.png" alt="Screenshot 9" width="200" style="margin: 10px;">
+  <img src="./screenshots/10.png" alt="Screenshot 10" width="200" style="margin: 10px;">
+  <img src="./screenshots/11.png" alt="Screenshot 11" width="200" style="margin: 10px;">
+  <img src="./screenshots/12.png" alt="Screenshot 12" width="200" style="margin: 10px;">
+</p>
 
-## Get a fresh project
+### Qeyd:
 
-When you're ready, run:
+- Əgər Expo Go istifadə edirsinizsə, cihazınızın və kompüterinizin eyni Wi-Fi şəbəkəsində olduğundan əmin olun. 🌐
 
-```bash
-npm run reset-project
-```
+<h1>Bəyəndinizsə zəhmət olmasa star atın :)</h1>
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## Əlaqə 📬
 
-## Learn more
+Hər hansı bir sualınız varsa, mənimlə GitHub vasitəsilə əlaqə saxlaya bilərsiniz. 😊
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+🔗 **Repository**: [Milyonçu GitHub Repository](https://github.com/abdullaabdullazade/MillionerAZ)
