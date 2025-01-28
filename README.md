@@ -61,7 +61,7 @@ Bu layihə **React Native**-də yazılmışdır. Onu işə salmaq üçün aşağ
   <img src="./screenshots/8.png" alt="Screenshot 8" width="200" style="margin: 10px;">
   <img src="./screenshots/9.png" alt="Screenshot 9" width="200" style="margin: 10px;">
 </p>
-<video src='https://github.com/user-attachments/assets/2c5c57ef-591c-4a86-be7b-2bc245e05f00'></video>
+<video src='https://github.com/user-attachments/assets/2c5c57ef-591c-4a86-be7b-2bc245e05f00'></video><br/>
 ### Qeyd:
 
 - Əgər Expo Go istifadə edirsinizsə, cihazınızın və kompüterinizin eyni Wi-Fi şəbəkəsində olduğundan əmin olun. 🌐
