@@ -27,7 +27,7 @@ const shuffleArray = (array, usedQuestions) => {
   let availableQuestions = array.filter(q => !usedQuestions.includes(q.question));
   if (availableQuestions.length === 0) {
     availableQuestions = [...array];
-    usedQuestions.length = 0; // Reset used questions if all questions have been used
+    usedQuestions.length = 0; 
   }
   const questionObj = availableQuestions[Math.floor(Math.random() * availableQuestions.length)];
   const correctAns = questionObj.answers[questionObj.correct];
@@ -143,7 +143,6 @@ const QuizApp = () => {
       }
 
       return () => {
-        // Stop background music when the screen is unfocused
         if (backgroundMusic) {
           backgroundMusic.stopAsync();
         }
@@ -154,7 +153,7 @@ const QuizApp = () => {
   useEffect(() => {
     const handleGameOver = async () => {
       if (gameOver || score == scoreQuestions[17]) {
-        await stopMusic();  // Ensuring music stops when the game is over
+        await stopMusic();  
         try {
           const storedScore = await AsyncStorage.getItem('score');
           const storedQuizCount = await AsyncStorage.getItem('quizCount');
@@ -737,14 +736,14 @@ const styles = StyleSheet.create({
   },
   scoreCircle: {
     position: 'absolute',
-    right: 0, // Align the circle to the right of the container
+    right: 0, 
   },
   scoreText: {
     fontSize: 24,
     color: '#ffffff',
     fontWeight: 'bold',
     textAlign: 'center',
-    width: '100%', // Ensure the text takes the full width of the container
+    width: '100%', 
   },
   timerContainer: {
     alignItems: 'center',

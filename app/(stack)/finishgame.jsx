@@ -151,7 +151,7 @@ const styles = StyleSheet.create({
 
   },
   svgContainer: {
-    marginTop: 20, // Bu boşluğu ehtiyacınıza görə tənzimləyə bilərsiniz
+    marginTop: 20, 
     height: '50%',
     width: '90%',
     backgroundColor: 'white',
